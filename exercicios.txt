@@ -1,0 +1,8 @@
+# Formato:
+# Nome_do_Exercicio;Repeticoes;Series;Tempo_de_Descanso;Offset_Linha_Verde;Offset_Linha_Vermelha
+
+Elevacao Lateral;10;1;1;-0.1;0.15
+Agachamento;15;4;45;-0.2;0.2
+Flexao de Braco;12;3;60;-0.1;0.1
+Teste Exercicio;10;2;10;0;0
+Ellenzinha;10;1;1;0.1;0.2
