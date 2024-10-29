@@ -15,3 +15,5 @@ while True:
 
     # Executar o exercício com a configuração fornecida
     run_exercise(nSerie, rSerie, timeActive, green_line_offset, red_line_offset, serial_port, selected_exercise)
+
+#TODO: Testar codigo
